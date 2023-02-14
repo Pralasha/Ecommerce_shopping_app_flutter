@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "202470742119",
+    "project_id": "shopit-81cef",
+    "storage_bucket": "shopit-81cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202470742119:android:1c080d08fe22c93da1dcc2",
+        "android_client_info": {
+          "package_name": "com.pralasha.shop_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202470742119-imanao92trmuk479gtti8c898hrgon1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pralasha.shop_it",
+            "certificate_hash": "7e2061622660222d0d7ae8fb63c4d525170369b5"
+          }
+        },
+        {
+          "client_id": "202470742119-n40v9v995ib4isog7b0k4i4jace5afqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pralasha.shop_it",
+            "certificate_hash": "dbbb2d3befa80ec7711204de669667d189f7966b"
+          }
+        },
+        {
+          "client_id": "202470742119-sv5vgts8hbj5qn2ibd6l63nc58astq9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABoJ6nJSTEu88rsz_w7eD7cXQzkidAqsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202470742119-qfhrmvb6n8tqke9mlhkueb0auqv5rdek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
